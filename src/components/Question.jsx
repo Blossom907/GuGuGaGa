@@ -9,7 +9,7 @@ const NO_TAUNTS = [
   "Maan jao na... 🥺",
   "Dil se sorry bol raha hoon... 💗",
   "Ek last mauka do... 🙏",
-  "Theek hai... jaanti hoon tu maaf kar degi 💜",
+  "Theek hai... jaanta hoon tu maaf kar degi 💜",
 ];
 
 // Each stage changes the No button's position while hovering
